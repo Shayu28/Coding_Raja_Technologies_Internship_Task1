@@ -29,4 +29,4 @@ import json
 7. View Task Statistics:
 view_stats: Shows a messagebox with the total and completed tasks.
 
-Main Block
+8. Main Block
